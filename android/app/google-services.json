@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888670370975",
+    "project_id": "skooles-fb",
+    "storage_bucket": "skooles-fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888670370975:android:86db7936ed02ea4a21f6aa",
+        "android_client_info": {
+          "package_name": "com.skooles.skoonet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmHsznuFhUYcIQIABmP_ecg8OimVVItGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

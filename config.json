@@ -1,0 +1,10 @@
+{
+  "application_name": "SkooNet",
+  "application_welcome_message": "Welcome to SkooNet",
+  "default_homeserver": "schoolecosys.com",
+  "web_base_url": "https://skoonet.schoolecosys.com",
+  "privacy_url": "https://fluffychat.im/en/privacy.html",
+  "render_html": false,
+  "hide_redacted_events": false,
+  "hide_unknown_events": false
+}
